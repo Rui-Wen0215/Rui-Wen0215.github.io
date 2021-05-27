@@ -4,7 +4,6 @@ Rui Wen is currently pursuing the M.S. degree (advised by Prof. Liang-Jian Deng)
 
 ### Publications
 Youhua Wei, Jun Feng, Ruixue Gao, [Rui Wen](https://rui-wen0215.github.io/), Wenxi Xu, Wei Wang, and Maozhi Wang,"Hyperspectral Denoising Based on Principal Component Low-Rank Tensor Decomposition",IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,2021
-
 [pdf](https://github.com/Rui-Wen0215/Rui-Wen0215.github.io), [code](https://github.com/Rui-Wen0215/Rui-Wen0215.github.io)
 
 ### Experiences
