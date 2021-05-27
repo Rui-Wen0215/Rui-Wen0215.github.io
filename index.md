@@ -1,5 +1,7 @@
 ## Rui Wen(温瑞)
 
+< img src="1.jpg" width = "224" height = "147" alt="" align=right />
+
 Rui Wen is currently pursuing the M.S. degree (advised by Prof. Liang-Jian Deng) with the School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC), Chengdu, China. His research interest includes tensor computing, deep learning, and high-dimensional data processing.
 
 ### Publications
