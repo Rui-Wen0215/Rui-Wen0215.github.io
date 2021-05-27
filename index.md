@@ -9,7 +9,6 @@ Youhua Wei, Jun Feng, Ruixue Gao, [Rui Wen](https://rui-wen0215.github.io/), Wen
 
 ### Experiences
 #### 09/2021-07/2024: University of Electronic Science and Technology of China (UESTC); Master student in Mathematics (Supervisor: Prof. Liang-Jian Deng)
-
 #### 09/2017-07/2021: Chengdu University of Technology(CDUT); Bachelor student in Mathmatics and Applied Mathmatics (Supervisor: Prof. Jun Feng)
 
 ### Awards and Honors
