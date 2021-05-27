@@ -8,10 +8,10 @@ Youhua Wei, Jun Feng, Ruixue Gao, [Rui Wen](https://rui-wen0215.github.io/), Wen
 [pdf](https://github.com/Rui-Wen0215/Rui-Wen0215.github.io), [code](https://github.com/Rui-Wen0215/Rui-Wen0215.github.io)
 
 ### Experiences
-## 09/2021-07/2024: University of Electronic Science and Technology of China (UESTC); Master student in Mathematics (Supervisor: Prof. Liang-Jian Deng)
+#### 09/2021-07/2024: University of Electronic Science and Technology of China (UESTC); Master student in Mathematics (Supervisor: Prof. Liang-Jian Deng)
 
-## 09/2017-07/2021: Chengdu University of Technology(CDUT); Bachelor student in Mathmatics and Applied Mathmatics (Supervisor: Prof. Jun Feng)
+#### 09/2017-07/2021: Chengdu University of Technology(CDUT); Bachelor student in Mathmatics and Applied Mathmatics (Supervisor: Prof. Jun Feng)
 
 ### Awards and Honors
-## Excellent graduate
-## National Encouragement Scholarship
+#### Excellent graduate
+#### National Encouragement Scholarship
