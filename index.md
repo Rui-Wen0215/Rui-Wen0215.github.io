@@ -1,35 +1,16 @@
 ## Rui Wen(温瑞)
 
-introduce myself
+Rui Wen is currently pursuing the M.S. degree (advised by Prof. Liang-Jian Deng) with the School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC), Chengdu, China. His research interest includes tensor computing, deep learning, and high-dimensional data processing.
 
-### 论文
+### Publications
+Youhua Wei, Jun Feng, Ruixue Gao, [Rui Wen](https://rui-wen0215.github.io/), Wenxi Xu, Wei Wang, and Maozhi Wang,"Hyperspectral Denoising Based on Principal Component Low-Rank Tensor Decomposition",IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,2021
+[pdf](https://github.com/Rui-Wen0215/Rui-Wen0215.github.io),[code](https://github.com/Rui-Wen0215/Rui-Wen0215.github.io)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Experiences
+## 09/2021-07/2024: University of Electronic Science and Technology of China (UESTC); Master student in Mathematics (Supervisor: Prof. Liang-Jian Deng)
 
-```markdown
-Syntax highlighted code block
+## 09/2017-07/2021: Chengdu University of Technology(CDUT); Bachelor student in Mathmatics and Applied Mathmatics (Supervisor: Prof. Jun Feng)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### 经历
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rui-Wen0215/Rui-Wen0215.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### 奖项
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Awards and Honors
+## Excellent graduate
+## National Encouragement Scholarship
