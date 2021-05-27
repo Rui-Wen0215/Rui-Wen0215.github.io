@@ -33,7 +33,7 @@ Youhua Wei, Jun Feng, Ruixue Gao, [Rui Wen](https://rui-wen0215.github.io/), Wen
 
     <!-- Site Icons -->
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
-    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" href="1.png">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -321,7 +321,7 @@ Youhua Wei, Jun Feng, Ruixue Gao, [Rui Wen](https://rui-wen0215.github.io/), Wen
                                 <p class="lead">They have got my project on time with the competition with a sed highly skilled, and experienced & professional team.</p>
                             </div>
                             <div class="testi-meta">
-                                <img src="uploads/testi_01.png" alt="" class="img-fluid alignleft">
+                                <img src="1.png" alt="" class="img-fluid alignleft">
                                 <h4>James Fernando <small>- Manager of Racer</small></h4>
                             </div>
                             <!-- end testi-meta -->
